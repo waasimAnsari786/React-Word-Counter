@@ -7,22 +7,32 @@
 }
 
 .inp-filed{
-  box-shadow: 0 0 15px 3px rgb(105, 149, 233);
+  box-shadow: 0 0 15px 3px #6995e9;
   border: none;
   outline: none;
+  border-radius: 10px;
 }
 
 .inp-filed::placeholder{
   text-transform: capitalize;
 }
 
-.wr-count-btns button{
-  background-color: rgb(23, 23, 209);
+.wr-count-btns{
+  background-color: #1717d1;
   border: none;
   border-radius: 10px;
   color: white;
   text-transform: capitalize;
   padding: 10px;
+}
+
+.theme-btn{
+  font-size: 15px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  text-transform: capitalize;
+  padding: 5px;
 }
 
 .text{
@@ -31,5 +41,26 @@
 }
 
 .rough{
-  border: 1px solid black;
+  border: 1px solid #5fbd86;
+}
+
+html button{
+  border: none;
+  text-transform: capitalize;
+}
+
+.container-fluid{
+  overflow: hidden;
+}
+
+.container{
+  position: relative;
+}
+
+.alert{
+  position: absolute;
+  top: 15px;
+  transform: translateY(-100%);
+  transition: all 0.5s linear;
+  opacity: 0;
 }

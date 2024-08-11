@@ -1,9 +1,12 @@
-import './App.css';
-import WordCount from './components/WordCount.jsx'
+import "./App.css";
+import WordCount2 from "./components/WordCount2.jsx";
+import { WordCountProvider } from "./components/WordCountContext.jsx";
 
 function App() {
   return (
-    <WordCount/>
+    <WordCountProvider>
+      <WordCount2 />
+    </WordCountProvider>
   );
 }
 
