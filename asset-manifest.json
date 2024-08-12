@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Word-Counter/static/css/main.eb469615.css",
-    "main.js": "/React-Word-Counter/static/js/main.8c2f68c1.js",
+    "main.css": "/React-Word-Counter/static/css/main.6a4ab6b0.css",
+    "main.js": "/React-Word-Counter/static/js/main.e7954b59.js",
     "static/js/453.92d39b11.chunk.js": "/React-Word-Counter/static/js/453.92d39b11.chunk.js",
     "index.html": "/React-Word-Counter/index.html",
-    "main.eb469615.css.map": "/React-Word-Counter/static/css/main.eb469615.css.map",
-    "main.8c2f68c1.js.map": "/React-Word-Counter/static/js/main.8c2f68c1.js.map",
+    "main.6a4ab6b0.css.map": "/React-Word-Counter/static/css/main.6a4ab6b0.css.map",
+    "main.e7954b59.js.map": "/React-Word-Counter/static/js/main.e7954b59.js.map",
     "453.92d39b11.chunk.js.map": "/React-Word-Counter/static/js/453.92d39b11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb469615.css",
-    "static/js/main.8c2f68c1.js"
+    "static/css/main.6a4ab6b0.css",
+    "static/js/main.e7954b59.js"
   ]
 }
